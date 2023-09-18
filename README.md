@@ -5,6 +5,6 @@
 
 **3.** Some of my interests are Soccer, Football, track and field, specifically pole vault, F1, and cars :car:.
 
-**4.** My goal for this class is to learn to make more advanced projects than just small games maybe like an infotainment system in a car.
+**4.** My goal for this class is to learn to make more advanced projects than just small games maybe like an infotainment system for a car.
 <!--
 
