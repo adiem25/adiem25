@@ -1,10 +1,10 @@
 ## Hi I'm Adrian
-**1.** I have some previous coding experience because, after 8th-grade computer science, I was interested and self-learned some Java script and made some small projects and games.
+1. I have some previous coding experience because, after 8th-grade computer science, I was interested and self-learned some Java script and made some small projects and games.
 
-**2.** I wanted to take this class to enhance my skills and see if compsci is something I would like to continue in college.
+2. I wanted to take this class to enhance my skills and see if compsci is something I would like to continue in college.
 
-**3.** Some of my interests are Soccer, Football, track and field, specifically pole vault, F1, and cars :car:.
+3. Some of my interests are Soccer, Football, track and field, specifically pole vault, F1, and cars :car:.
 
-**4.** My goal for this class is to learn to make more advanced projects than just small games maybe like an infotainment system for a car.
+4. My goal for this class is to learn to make more advanced projects than just small games maybe like an infotainment system for a car.
 <!--
 
